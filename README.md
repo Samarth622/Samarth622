@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on devops project.<br>I like to work on javascript projects.
+Results-driven MCA candidate and full-stack developer skilled in JavaScript, React.js, and Node.js. National
+hackathon winner with a passion for building scalable APIs and high-performance fintech solutions.
 
 
 ## 🌐 Socials:

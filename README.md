@@ -1,25 +1,137 @@
-# 💫 About Me:
-Results-driven MCA candidate and full-stack developer skilled in JavaScript, React.js, and Node.js. National
-hackathon winner with a passion for building scalable APIs and high-performance fintech solutions.
+<!-- --------------------------- HEADER --------------------------- -->
 
+<h1 align="center">🚀 Samarth Gupta</h1>
+<h3 align="center">Full-Stack Developer | Backend Engineer | Product Builder</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guptasamarth3471) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samarth-gupta-8b9b42289/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22643463/samarth) 
+<p align="center">
+  <b>MCA Candidate • National Hackathon Winner • Founder of FoodLens • 3+ yrs Competitive Coding</b>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=plastic&logo=bulma&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=plastic&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Samarth622&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Samarth622&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth622&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Samarth622&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!-- --------------------------- ABOUT ME --------------------------- -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 💫 About Me
+I’m **Samarth**, a passionate **Full-Stack & Backend Engineer** focused on building  
+high-performance applications, scalable APIs, and real-world impactful products.
+
+I love working on:
+- ⚙️ Backend Systems → Node.js, Java (Spring Boot), Microservices  
+- 🔥 Frontend → React.js, Next.js, Angular  
+- 📦 Databases → MongoDB, MySQL, Firebase  
+- 🔍 Solving complex problems (3+ years of DSA + competitive coding)  
+- 🌱 Building products like **FoodLens**, **E-commerce platforms**, **3D web experiences**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Samarth622&icon=1&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- --------------------------- SOCIALS --------------------------- -->
+
+## 🌐 Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/samarthgupta622/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/guptasamarth3471">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://stackoverflow.com/users/22643463/samarth">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- --------------------------- PROJECTS --------------------------- -->
+
+## 🌟 Featured Projects
+
+### 🔍 **FoodLens – AI-based Food Analysis App**
+Personalized food analysis based on user health profile.  
+Barcode reader • Image analysis • Health reports • Nutrition breakdown  
+**Tech:** React Native, Firebase, Spring Boot, Python Microservices  
+👉 **Website:** https://foodlens.in
+
+---
+
+### 🛒 **Full Stack E-Commerce Platform**
+SPA with product catalog, authentication, cart, and order management.  
+**Tech:** Angular, Node.js, MongoDB
+
+---
+
+### 💖 **Our Love in Motion – 3D Valentine Experience**
+Interactive 3D web scenes with animations.  
+**Tech:** Three.js, GSAP, HTML5 Audio
+
+---
+
+<!-- --------------------------- TECH STACK --------------------------- -->
+
+## 💻 Tech Stack
+
+### **Languages**
+`Java` · `JavaScript` · `TypeScript` · `C++` · `C` · `SQL` · `Bash`
+
+### **Frontend**
+`React` · `Next.js` · `Angular` · `Redux` · `MUI` · `TailwindCSS`
+
+### **Backend**
+`Node.js` · `Express` · `Spring Boot` · `Microservices` · `JWT Auth`
+
+### **Databases**
+`MongoDB` · `MySQL` · `Firebase`
+
+### **DevOps & Tools**
+`Docker` · `GitHub Actions` · `Terraform` · `Ansible` · `AWS`  
+`Postman` · `ESLint` · `NPM`
+
+### **Other**
+`Three.js` · `GSAP` · `Canva`
+
+---
+
+<!-- --------------------------- STATS --------------------------- -->
+
+## 📊 GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth622&theme=tokyonight&show_icons=true&hide_border=true" height="160px"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Samarth622&theme=tokyonight&hide_border=true" height="160px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth622&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+
+</div>
+
+---
+
+<!-- --------------------------- ACHIEVEMENTS --------------------------- -->
+
+## 🏆 Achievements
+- 🥇 **1st Rank – Pune Intercollege Coding Hackathon**  
+- 🚀 Built **FoodLens**, used by health-conscious users  
+- 💼 Completed **4+ freelance projects** with excellent reviews  
+- 💡 Developed products using **React**, **Node.js**, **Spring Boot**, **Firebase**, **3D Web**
+
+---
+
+<!-- --------------------------- QUOTE --------------------------- -->
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- --------------------------- VISIT COUNT --------------------------- -->
+
+## 👀 Visitor Count
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=Samarth622&icon=3&color=4"/>
+</p>
+
+---
+
+<p align="center"><i>Always building. Always learning. Always shipping.</i></p>
+

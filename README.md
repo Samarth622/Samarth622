@@ -3,15 +3,14 @@
              Palette: Purple (#BC13FE), Green (#39FF14), Aqua (#00FFFF)
 ============================================================ -->
 
-<!-- HERO TITLE -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2800&pause=800&color=BC13FE&center=true&vCenter=true&width=900&lines=Samarth+Gupta;Full-Stack+Developer;Backend+Engineer;Product+Builder+%7C+Hackathon+Winner" />
+<!-- HERO TITLE (Big Name + Typing SVG) -->
+<h1 align="center" style="font-size: 52px; font-weight: bold; color:#BC13FE;">
+  🚀 Samarth Gupta
 </h1>
 
-<!-- CYBER DIVIDER -->
-<p align="center">
-  <img src="https://i.imgur.com/5cXH9YV.gif" width="700"/>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;Product+Builder+%7C+Hackathon+Winner" alt="typing intro"/>
+</h2>
 
 <p align="center">
   <b style="color:#00FFFF;">MCA Candidate • National Hackathon Winner • Founder of FoodLens • 3+ Years Dev Experience</b>
@@ -49,10 +48,7 @@
   <a href="https://instagram.com/guptasamarth3471">
     <img height="45" src="https://skillicons.dev/icons?i=instagram"/>
   </a>
-  <a href="https://stackoverflow.com/users/22643463/samarth">
-    <img height="45" src="https://skillicons.dev/icons?i=stackoverflow"/>
-  </a>
-  <a href="mailto:contactsamarth622@gmail.com">
+  <a href="guptasamarth622@gmail.com">
     <img height="45" src="https://skillicons.dev/icons?i=gmail"/>
   </a>
 </p>
@@ -67,8 +63,8 @@
 
 ### 🔍 **FoodLens – AI-based Food Health Analyzer**
 Real-time analysis using barcode scanner, nutrient extraction & health scoring.  
-**Tech:** React Native · Firebase · Spring Boot · Python  
-➡️ Live: **https://foodlens.in**
+**Tech:** ReactJs · MongoDB · NodeJs · Express.js  
+➡️ Live: **http://foodlens.in**
 
 ---
 
@@ -140,17 +136,16 @@ Immersive 3D scenes built using WebGL & animation engines.
 ---
 
 <!-- ============================================================
-                         FOOTER
+                         FOOTER (NEON CYBERPUNK)
 ============================================================ -->
 
-## 👀 <span style="color:#00FFFF;">Visitor Count</span>
-<img src="https://visitcount.itsvg.in/api?id=Samarth622&icon=3&color=4"/>
+<!-- SIGNATURE LINE -->
+<h3 align="center" style="color:#39FF14; font-weight: bold;">
+  ⚡ Always Building • Always Learning • Always Shipping ⚡
+</h3>
 
-<br/>
-
-<p align="center">
-  <img src="https://i.imgur.com/5cXH9YV.gif" width="700"/>
+<p align="center" style="color:#BC13FE; font-size: 14px;">
+  Made with ❤️ by <b>Samarth Gupta</b>
 </p>
 
-<h3 align="center" style="color:#39FF14;">⚡ Always Building • Always Learning • Always Shipping ⚡</h3>
 

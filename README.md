@@ -104,9 +104,6 @@ Immersive 3D scenes built using WebGL & animation engines.
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth622&theme=highcontrast&border=BC13FE&stroke=39FF14&ring=BC13FE&fire=39FF14&currStreakLabel=00FFFF&sideNums=39FF14&dates=BC13FE&sideLabels=00FFFF"/>
 </p>
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samarth622&layout=compact&theme=radical&title_color=BC13FE&text_color=00FFFF&bg_color=000000&hide_border=true" />
-</p>
 
 ---
 

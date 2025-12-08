@@ -5,7 +5,7 @@
 
 <!-- HERO TITLE (Big Name + Typing SVG) -->
 <h1 align="center" style="font-size: 52px; font-weight: bold; color:#BC13FE;">
-  🚀 Samarth Gupta
+  🚀 Sammarth Gupta
 </h1>
 
 <h2 align="center">

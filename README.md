@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/identity-print.gif" width="780" alt="Animated fingerprint-style portrait of Sammarth Gupta"/>
+<img src="./identity-print.gif" width="780" alt="Animated fingerprint-style portrait of Sammarth Gupta"/>
 
 <br/>
 
